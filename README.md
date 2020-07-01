@@ -1,5 +1,5 @@
 # Data-Science-Notebooks
- Data Science Revision
+ 10 Days Data Science Revision
  
  1. Python Basics
  2. Numpy
